@@ -1,2 +1,2 @@
 # my-first-readme
-creating a proper readme
+Creating a proper README.md
